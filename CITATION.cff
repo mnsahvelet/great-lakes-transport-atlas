@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this atlas, please cite it as below."
+title: "Great Lakes Potential Longshore Sediment Transport Atlas"
+authors:
+  - family-names: Sahvelet
+    given-names: Muhammed
+    email: muhammedsahvelet@gmail.com
+    affiliation: "Purdue University"
+type: dataset
+version: "0.1.0-draft"
+date-released: 2026-08-02
+url: "https://mnsahvelet.github.io/great-lakes-transport-atlas/"
+abstract: >
+  Interactive shoreline-scale visualization of potential longshore sediment
+  transport for the five Laurentian Great Lakes, computed using the van Rijn
+  (2014) transport formulation from WIS wave hindcast data. Accompanies a
+  manuscript in preparation.
+keywords:
+  - Great Lakes
+  - longshore sediment transport
+  - coastal engineering
+  - wave climate
+  - van Rijn
